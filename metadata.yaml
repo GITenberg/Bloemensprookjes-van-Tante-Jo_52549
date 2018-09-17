@@ -1,0 +1,39 @@
+_repo: Bloemensprookjes-van-Tante-Jo_52549
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, L. M. (Louisa May)
+    - Alcott, Louisa M. (Louisa May)
+    - Barnard, A. M.
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: ''
+gutenberg_issued: '2016-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52549'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- United States'
+- !lcsh 'Flowers -- Juvenile poetry'
+- !lcsh 'Fairies -- Juvenile poetry'
+- !lcsh 'Flowers -- Juvenile fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Children''s stories, American'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: Zonnetje en haar broeders en zusters -- De Wonderbron -- Meerminnen
+  -- Knopje -- De geschiedenis van de Bloem -- Bruintje en de Prinses -- Koning Vorst
+  en hoe de Toovernimfen hem overwonnen -- Meiklokje en Distelpluis of de Schoone
+  Slaapster -- Kabbeltje de Waternimf -- Eva’s bezoek aan het Tooverland -- Koningin
+  Aster.
+title: Bloemensprookjes van Tante Jo
+url: http://www.gutenberg.org/ebooks/52549
